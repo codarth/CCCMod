@@ -1,0 +1,14 @@
+{
+  "item.cccmod.sapphire": "Sapphire",
+  "item.cccmod.raw_sapphire": "Raw Sapphire",
+
+  "block.cccmod.sapphire_block": "Block of Sapphire",
+  "block.cccmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.cccmod.sapphire_ore": "Sapphire Ore",
+  "block.cccmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.cccmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.cccmod.endstone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "creativetab.tutorial_tab": "Sapphire Items"
+}

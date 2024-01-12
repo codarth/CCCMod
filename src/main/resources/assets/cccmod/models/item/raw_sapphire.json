@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cccmod:item/raw_sapphire"
+  }
+}
