@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cccmod:block/sound_block"
+    }
+  }
+}

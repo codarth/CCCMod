@@ -4,6 +4,9 @@
 
   "item.cccmod.metal_detector": "Metal Detector",
 
+  "item.cccmod.strawberry": "Strawberry",
+  "item.cccmod.pine_cone": "Pine Cone",
+
   "block.cccmod.sapphire_block": "Block of Sapphire",
   "block.cccmod.raw_sapphire_block": "Block of Raw Sapphire",
 
@@ -11,6 +14,8 @@
   "block.cccmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.cccmod.nether_sapphire_ore": "Nether Sapphire Ore",
   "block.cccmod.endstone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "block.cccmod.sound_block": "Sound Block",
 
   "creativetab.tutorial_tab": "Sapphire Items"
 }

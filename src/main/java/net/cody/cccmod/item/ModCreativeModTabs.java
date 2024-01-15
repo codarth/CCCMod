@@ -22,6 +22,9 @@ public class ModCreativeModTabs {
 
                 pOutput.accept(ModItems.METAL_DETECTOR.get());
 
+                pOutput.accept(ModItems.STRAWBERRY.get());
+                pOutput.accept(ModItems.PINE_CONE.get());
+
                 // Modded Blocks syntax
                 pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                 pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
@@ -30,6 +33,9 @@ public class ModCreativeModTabs {
                 pOutput.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
                 pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
                 pOutput.accept(ModBlocks.ENDSTONE_SAPPHIRE_ORE.get());
+
+                pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+
 
                 // Default Item syntax
                 pOutput.accept(Items.DIAMOND);
