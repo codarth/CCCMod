@@ -17,5 +17,7 @@
 
   "block.cccmod.sound_block": "Sound Block",
 
+  "tooltip.cccmod.metal_detector.tooltip": "Find valuables underground",
+
   "creativetab.tutorial_tab": "Sapphire Items"
 }
