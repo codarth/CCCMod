@@ -19,5 +19,19 @@
 
   "tooltip.cccmod.metal_detector.tooltip": "Find valuables underground",
 
-  "creativetab.tutorial_tab": "Sapphire Items"
+  "creativetab.tutorial_tab": "Sapphire Items",
+
+  "block.cccmod.sapphire_stairs": "Sapphire Stairs",
+  "block.cccmod.sapphire_slab": "Sapphire Slab",
+
+  "block.cccmod.sapphire_button": "Sapphire Button",
+  "block.cccmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+
+  "block.cccmod.sapphire_fence": "Sapphire Fence",
+  "block.cccmod.sapphire_fence_gate": "Sapphire Gate",
+  "block.cccmod.sapphire_wall": "Sapphire Wall",
+
+  "block.cccmod.sapphire_door": "Sapphire Door",
+  "block.cccmod.sapphire_trapdoor": "Sapphire Trapdoor"
+
 }
